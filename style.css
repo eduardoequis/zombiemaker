@@ -1,0 +1,7 @@
+#divPrincipal {
+    display: flex;
+    background-color: antiquewhite;
+    height: 80%;
+    width: 80%;
+    margin: auto;
+}
